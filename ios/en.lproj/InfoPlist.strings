@@ -1,0 +1,5 @@
+NSCameraUsageDescription = "Camera is used to read QR-codes";
+NSBluetoothAlwaysUsageDescription = "Bluetooth is used for indoor navigation";
+NSLocationWhenInUseUsageDescription = "Used for indoor navigation";
+NSLocationAlwaysUsageDescription = "Used for indoor navigation";
+NSBluetoothPeripheralUsageDescription = "Bluetooth is used for indoor navigation";

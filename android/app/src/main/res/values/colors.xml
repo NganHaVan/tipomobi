@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#ae1e20</color>
+    <color name="secondaryColor">#c83e36</color>
+    <color name="detailColor">#39a7d7</color>
+    <color name="bluedotColor">#39a7d7</color>
+    <color name="primaryVariantColor">#ae1e20</color>
+    <color name="secondaryVariantColor">#eb5e58</color>
+    <color name="detailVariantColor">#39a7d7</color>
+    <color name="zoomedInRouteLineColor">#39a7d7</color>
+    <color name="zoomedOutRouteLineColor">#29549a</color>
+    <color name="altRouteLineColor">#e8b455</color>
+    <color name="backgroundColor">#e5eef8</color>
+    <color name="shadeColor">#bebfbf</color>
+    <color name="textColor">#585857</color>
+    <color name="textHaloColor">#ffffff</color>
+    <color name="white">#FFF</color>
+</resources>

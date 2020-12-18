@@ -1,0 +1,79 @@
+{
+  "accessibleNames": {
+    "menu": "Menu",
+    "excited": "Very happy",
+    "happy": "Happy",
+    "neutral": "Neutral",
+    "disappointed": "Disappointed",
+    "selected": "Selected",
+    "deselected": "Deselected",
+    "feedbackSuccess": "Feedback successfully submitted",
+    "cameraPreview": "Camera preview"
+  },
+  "common": {
+    "back": "Back",
+    "continue": "Continue",
+    "cancel": "Cancel",
+    "ok": "OK",
+    "thanks": "Thank you",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "drawer": {
+    "menu": "Menu",
+    "navigation": "Navigation",
+    "feedback": "Feedback",
+    "taxi": "Kela taxi",
+    "qrCode": "Scan a code",
+    "info": "About"
+  },
+  "feedbackScreen": {
+    "header": "Feedback",
+    "feedbackPrompt": "Would you like to give feedback on your navigation experience?",
+    "afterNavigationFeedback": "Would you like to tell us, how well did Tipomobi help you to find your destination?",
+    "normalFeedback": "Would you like to give feedback on Tipomobi?",
+    "noFeedback": "I'd rather not give feedback",
+    "giveFeedback": "Your feedback",
+    "send": "Submit",
+    "submitted": "Your feedback has been received",
+    "returnToStart": "Return to start",
+    "returnToMap": "Return to the map",
+    "submitError": "An error occured while processing your feedback. Please try again."
+  },
+  "menuScreen": {
+    "header": "Menu",
+    "hi": "Hello",
+    "welcomeText": "Welcome to Tipotie! Tipomobi-app will help you to find your way to your appointment.",
+    "invitation": "I received a letter",
+    "search": "Search for a place"
+  },
+  "navigationScreen": {
+    "header": "Navigation"
+  },
+  "qrCodeScreen": {
+    "header": "Read a QR code",
+    "helpText": "Find the QR code in the upper part of the received letter"
+  },
+  "taxiScreen": {
+    "header": "How to book a taxi",
+    "bookingDescription1": "Call to book a taxi by 2 pm the previous day. You should call the regional number also if you need a taxi unexpectedly or forgot to book a taxi on the preceding day.",
+    "bookingDescription2": "You will get reimbursed straight away and will only pay up to the amount of the appropriate copayment. Please be aware that if you book a taxi in some other way, Kela will not reimburse you for the trip.",
+    "call": "Call the dispatch number",
+    "feedback": "Give feedback on your trip",
+    "withDisabilitiesHeader": "Customers with a hearing or speech impairment",
+    "disabilitiesDescribtion": "The customer's personal information must be provided over the phone before the first ride.",
+    "sms": "Book via SMS"
+  },
+  "infoScreen": {
+    "header": "About the app",
+    "description": "Tipomobi is an indoor guidance based on indoor positioning application that facilitates navigation at the Tipotie Wellness Center.\n\nThe application allows you to find the route to the reception waiting rooms and other customer rooms.",
+    "privacyPolicyBtn": "Privacy policy",
+    "accessibilityBtn": "Accessibility statement"
+  },
+  "notifications": {
+    "feedback": {
+      "title": "Tipomobi feedback",
+      "message": "Would you like to give feedback about Tipomobi app?"
+    }
+  }
+}

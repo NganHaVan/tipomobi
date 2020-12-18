@@ -1,0 +1,5 @@
+NSCameraUsageDescription = "Kamera behövs för att läsa QR koder";
+NSBluetoothAlwaysUsageDescription = "Applikationen använder Bluetooth för inomhuspositioneringen";
+NSLocationWhenInUseUsageDescription = "Behövs för inomhuspositioneringen";
+NSLocationAlwaysUsageDescription = "Behövs för inomhuspositioneringen";
+NSBluetoothPeripheralUsageDescription = "Applikationen använder Bluetooth för inomhuspositioneringen";

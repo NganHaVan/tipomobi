@@ -1,0 +1,142 @@
+<resources>
+    <string name="app_name">Tipomobi</string>
+    <string name="nfcservice_desc">Steerpath Bitwards</string>
+    <string name="aiddescription">Steerpath Bitwards Description</string>
+
+    <string name="sp_error_no_browser">No web browser installed on device, can\'t open web page.</string>
+    <string name="sp_restart_bluetooth">Restart Bluetooth</string>
+
+    <string name="sp_show_free_desk_title">Free desks</string>
+    <string name="sp_show_free_desk_title_short">Free\ndesks</string>
+
+    <string name="sp_show_free_rooms_title">Free rooms</string>
+    <string name="sp_show_free_rooms_title_short">Free\nrooms</string>
+
+    <string name="sp_category_meeting_room_title">Meeting rooms</string>
+    <string name="sp_category_meeting_room_title_short">Meeting\nrooms</string>
+
+    <string name="sp_category_workspace_title">Workspaces</string>
+    <string name="sp_category_workspace_title_short">Work-\nspaces</string>
+
+    <string name="sp_service_toilet_title">Toilets</string>
+    <string name="sp_service_toilet_title_short">Toilets</string>
+
+    <string name="sp_show_free_phone_booths_title">Free Phone Booths</string>
+    <string name="sp_show_free_phone_booths_title_short">Free Phone Booths</string>
+
+    <string name="sp_category_waiting_room_title">Waiting rooms</string>
+    <string name="sp_category_waiting_room_title_short">Waiting\nrooms</string>
+    <string name="sp_category_waiting_room_description">Waiting rooms</string>
+
+    <string name="sp_infrastructure_entrance_title">Entrances</string>
+    <string name="sp_infrastructure_entrance_title_short">Entrances</string>
+    <string name="sp_infrastructure_entrance_description">Entrances</string>
+
+    <string name="sp_infrastructure_lift_title">Elevators</string>
+    <string name="sp_infrastructure_lift_title_short">Elevators</string>
+    <string name="sp_infrastructure_lift_description">Elevators</string>
+
+
+    <!--  Search  -->
+    <string name="sp_search_hint">Search for a place</string>
+    <string name="sp_search_icon">Search icon</string>
+    <string name="sp_close_search">Clear search field if it has text or close search if the field is empty</string>
+    <string name="sp_search_result_category">Search category</string>
+    <string name="sp_search_no_results">Could not find results for \'%1$s\'.</string>
+    <string name="sp_search_result_subtitle">%1$s, %2$s</string>
+    <string name="sp_cd_up_button">Up navigation button</string>
+    <string name="sp_cd_clear_button">Clear field</string>
+    <string name="sp_cd_suggestion_icon">List item icon</string>
+    <string name="sp_status_no_permissions">No permissions</string>
+    <string name="sp_status_ble_not_supported">Bluetooth LE is not supported on the device</string>
+    <string name="sp_status_bluetooth_disabled">Turn on bluetooth to locate yourself inside buildings.</string>
+    <string name="sp_status_gps_disabled">Location Services are currently turned off</string>
+    <string name="sp_action_grant_permissions">Grant permission</string>
+    <string name="sp_action_enable_bluetooth">Enable Bluetooth</string>
+    <string name="sp_action_enable_gps">Enable Location Services</string>
+    <string name="sp_internal_error">Internal error :(</string>
+    <string name="sp_waiting_for_location">Waiting for location…</string>
+    <string name="sp_no_search_results">No search results were found!</string>
+
+    <!-- Settings -->
+    <string name="settings_button">Settings button</string>
+    <string name="accessible_navigation">Accessible Navigation</string>
+    <string name="accessible">Accessible</string>
+    <string name="accessibility_text">Avoid stairs and escalators</string>
+    <string name="icon">icon</string>
+    <string name="close_settings">Close settings</string>
+    <string name="settings">Settings</string>
+    <string name="legal">Legal</string>
+    <string name="diagnostics">Diagnostics</string>
+    <string name="diagnostics_summary">Diagnostics data is used for monitoring beacon health.</string>
+
+    <string name="attribution_open_source_licenses">Open Source Licenses</string>
+
+    <string name="mapview_init_in_progress">Initializing map, please wait...</string>
+    <string name="sp_sdk_start_failed">Unable to initialize map</string>
+    <string name="sp_sdk_not_started">Map is not loaded yet</string>
+    <string name="sp_content_description_get_directions">Get Directions</string>
+    <string name="sp_permission_dialog_title">Indoor positioning</string>
+    <string name="sp_permissions_dialog_rationale">App features indoor positioning by Steerpath Ltd. To make use of this feature, give permissions.</string>
+    <string name="sp_location_required_dialog_title">Unable to locate you!</string>
+    <string name="sp_location_required_dialog_body">To show your location on map, turn on Location.</string>
+    <string name="sp_bluetooth_required_dialog_title">Indoor positioning</string>
+    <string name="sp_bluetooth_required_dialog_body">To enable indoor positioning, please enable Bluetooth on your device.</string>
+    <string name="sp_got_it">Got it</string>
+    <string name="sp_close">Close</string>
+    <string name="sp_enable">Enable</string>
+    <string name="sp_not_now">Not now</string>
+    <string name="sp_done">Done</string>
+
+    <!--  NAVIGATION  -->
+    <string name="sp_directions">Directions</string>
+    <string name="sp_show_route">Show Route</string>
+    <string name="sp_start">Start</string>
+    <string name="sp_continue">continue</string>
+    <string name="sp_turn_left">turn left</string>
+    <string name="sp_turn_slight_left">turn slightly left</string>
+    <string name="sp_turn_sharp_left">turn sharp left</string>
+    <string name="sp_turn_right">turn right</string>
+    <string name="sp_turn_slight_right">turn slightly right</string>
+    <string name="sp_turn_sharp_right">turn sharp right</string>
+    <string name="sp_go">Go</string>
+    <string name="sp_go_up">Go up</string>
+    <string name="sp_go_down">Go down</string>
+    <string name="sp_enter">Enter</string>
+    <string name="sp_destination_reached">Destination reached</string>
+    <string name="sp_step_format">Walk %1$dm and %2$s</string>
+    <string name="sp_step_current_action_int_format">Walk %1$dm</string>
+    <string name="sp_step_current_action_string_format">Walk %1$s</string>
+    <string name="sp_step_next_action_format">and %1$s</string>
+    <string name="sp_step_distance_to_next_format">%1$d m</string>
+    <string name="sp_step_total_distance_estimation_format">%1$s %2$s</string>
+    <string name="sp_step_total_travel_time_estimation_format">%1$d %2$s</string>
+    <string name="sp_destination_format">%1$s%2$s to destination (~%3$d %4$s)</string>
+    <!--  "Take elevator to Floor 3"  -->
+    <string name="sp_take_transportation_format">Take %1$s to %2$s</string>
+    <!--  "elevator to Floor 3"  -->
+    <string name="sp_while_in_transportation_format">%1$s to %2$s</string>
+    <string name="sp_seconds">s</string>
+    <string name="sp_minutes">min</string>
+    <string name="sp_meters">m</string>
+    <string name="sp_kilometers">km</string>
+    <string name="sp_next_waypoint">Next: %1$s</string>
+    <string name="sp_rerouting">Rerouting&#8230;</string>
+    <string name="sp_route_not_found">Unfortunately routing didn\'t succeed at this time!</string>
+    <string name="sp_routing_not_supported">Unfortunately routing is not available for your device!</string>
+    <string name="close_navigation_preview">Close navigation preview.</string>
+    <!-- valid with MARKER_RENDER_MODE_SYMBOL_LAYER -->
+    <string name="sp_route_floor_up_text">Up</string>
+    <string name="sp_route_floor_down_text">Down</string>
+    <!--  Compass Calibration Dialog  -->
+    <string name="sp_compass_calibration_title">Calibrate your blue dot\'s compass</string>
+    <string name="sp_compass_calibration_body">Tilt and move your phone 3 times like this:</string>
+    <string name="sp_compass_accuracy">Accuracy: %1$s</string>
+    <string name="sp_low">Low</string>
+    <string name="sp_medium">Medium</string>
+    <string name="sp_high">High</string>
+    <string name="sp_unreliable">Unreliable</string>
+    <!--  SnackBar Notifications  -->
+    <string name="sp_searching_location">Searching location&#8230;</string>
+
+</resources>

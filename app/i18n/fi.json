@@ -1,0 +1,81 @@
+{
+  "accessibleNames": {
+    "menu": "Valikko",
+    "excited": "Erittäin tyytyväinen",
+    "happy": "Tyytyväinen",
+    "neutral": "Neutraali",
+    "disappointed": "Pettynyt",
+    "selected": "Valittu",
+    "deselected": "Ei valittu",
+    "feedbackSuccess": "Palaute lähetetty onnistuneesti",
+    "cameraPreview": "Kameran esikatselukuva"
+  },
+  "common": {
+    "back": "Takaisin",
+    "continue": "Jatka",
+    "cancel": "Peruuta",
+    "ok": "OK",
+    "thanks": "Kiitos",
+    "error": "Virhe",
+    "yes": "Kyllä",
+    "no": "Ei"
+  },
+  "drawer": {
+    "menu": "Alkuun",
+    "navigation": "Navigoi",
+    "taxi": "Kelataksi",
+    "feedback": "Palaute",
+    "qrCode": "Skannaa koodi",
+    "info": "Tietoja"
+  },
+  "feedbackScreen": {
+    "header": "Palaute",
+    "feedbackPrompt": "Haluaisitko antaa palautetta navigoinnista?",
+    "afterNavigationFeedback": "Kerro meille, kuinka hyvin Tipomobi auttoi sinua löytämään määränpäähäsi?",
+    "normalFeedback": "Haluaisitko kertoa, kuinka tyytyväinen olit Tipomobi-palveluun?",
+    "noFeedback": "En halua jättää palautetta",
+    "giveFeedback": "Vapaa sana",
+    "send": "Lähetä",
+    "submitted": "Palautteesi on vastaanotettu",
+    "returnToStart": "Palaa alkuun",
+    "returnToMap": "Palaa kartalle",
+    "submitError": "Palautteen lähettämisessä tapahtui virhe. Yritä uudestaan."
+  },
+  "menuScreen": {
+    "header": "Menu",
+    "hi": "Hei",
+    "welcomeText": "Tervetuloa Tipotielle! Tipomobi-sovellus auttaa sinua löytämään perille tapaamiseesi.",
+    "invitation": "Minulle tuli kutsukirje  ",
+    "search": "Etsin tilaa tai huonetta"
+  },
+  "navigationScreen": {
+    "header": "Kartta"
+  },
+  "qrCodeScreen": {
+    "header": "Lue QR-koodi",
+    "helpText": "Löydät QR-koodin saamastasi kutsusta tai kirjeestä. Mikäli viestissä ei ole QR-koodia, voit käyttää tilahakemistoa edellisessä valikossa.",
+    "qrCodeNotValid": "Tämä QR-koodi ei sisältänyt paikkatietoa, yritä uudelleen."
+  },
+  "taxiScreen": {
+    "header": "Näin tilaat taksin",
+    "bookingDescription1": "Tilaa matka edeltävänä päivänä viimeistään klo 14.00. Tilaa matka alueellisesta numerosta myös silloin, kun tarvitset taksia äkillisesti tai olet unohtanut tilata taksin edellisenä päivänä.",
+    "bookingDescription2": "Saat matkakorvauksen heti taksissa ja maksat matkastasi enintään 25 euron omavastuun. Jos tilaat taksin muulla tavoin, Kela ei korvaa matkaasi.",
+    "call": "Soita tilausnumeroon",
+    "feedback": "Anna palautetta kuljetuksesta",
+    "withDisabilitiesHeader": "Kuulo- ja puhevammaiset asiakkaat",
+    "disabilitiesDescribtion": "Voit tilata matkasi tekstiviestillä sen jälkeen kun olet ilmoittanut asiakastietosi oman alueesi tilausvälityskeskukseen.",
+    "sms": "Tilaa viestillä"
+  },
+  "infoScreen": {
+    "header": "Tietoja sovelluksesta",
+    "description": "Tipomobi on Tipotien hyvinvointikeskuksessa suunnistamista helpottava sisätilapaikannukseen perustuva mobiiliopastus.\n\nSovelluksen avulla löydät reitin vastaanoton odotustiloihin ja muihin asiakastiloihin.",
+    "privacyPolicyBtn": "Tietosuojaseloste",
+    "accessibilityBtn": "Saavutettavuus-seloste"
+  },
+  "notifications": {
+    "feedback": {
+      "title": "Tipomobi palaute",
+      "message": "Haluaisitko antaa palautetta Tipomobi sovelluksesta?"
+    }
+  }
+}

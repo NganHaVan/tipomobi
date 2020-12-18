@@ -1,0 +1,5 @@
+NSCameraUsageDescription = "Kameraa käytetään QR-koodien lukemiseen";
+NSBluetoothAlwaysUsageDescription = "Sovellus käyttää Bluetoothia sisätilapaikannukseen";
+NSLocationWhenInUseUsageDescription = "Käytetään sisätilapaikannukseen";
+NSLocationAlwaysUsageDescription = "Käytetään sisätilapaikannukseen";
+;NSBluetoothPeripheralUsageDescription = "Sovellus käyttää Bluetoothia sisätilapaikannukseen";
