@@ -18,6 +18,7 @@
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		2DCD954D1E0B4F2C00145EB5 /* TipotieNaviTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* TipotieNaviTests.m */; };
+		4CCE7CAC25C044F600CA636A /* AppCenter-Config.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4CCE7CAB25C044F600CA636A /* AppCenter-Config.plist */; };
 		65535116A8C8401A9950AC37 /* Montserrat-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9314660B076247EA828868FE /* Montserrat-MediumItalic.ttf */; };
 		666642F187BB42AEBD5A145D /* Montserrat-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C08CD8D1291B4858B6B6C96A /* Montserrat-Bold.ttf */; };
 		6ACFD6CBD03B414D834862D2 /* Montserrat-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F41641D18CE146A7B2ADDE24 /* Montserrat-BoldItalic.ttf */; };
@@ -91,6 +92,7 @@
 		37C7AD70ACD043A1BF829AE2 /* Montserrat-Black.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-Black.ttf"; path = "../app/theme/fonts/Montserrat-Black.ttf"; sourceTree = "<group>"; };
 		3D80B8511F545A635D23F46C /* libPods-TipotieNavi-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-TipotieNavi-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F94AD6D9FCF0D0EAC9D5EC2 /* Pods-TipotieNavi-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TipotieNavi-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-TipotieNavi-tvOSTests/Pods-TipotieNavi-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
+		4CCE7CAB25C044F600CA636A /* AppCenter-Config.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "AppCenter-Config.plist"; path = "TipotieNavi/AppCenter-Config.plist"; sourceTree = "<group>"; };
 		5440B8B18934411D958949F6 /* Montserrat-BlackItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-BlackItalic.ttf"; path = "../app/theme/fonts/Montserrat-BlackItalic.ttf"; sourceTree = "<group>"; };
 		71B275BD537F49B7BDAA4D6C /* Montserrat-ExtraLightItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-ExtraLightItalic.ttf"; path = "../app/theme/fonts/Montserrat-ExtraLightItalic.ttf"; sourceTree = "<group>"; };
 		73D9CB494B337866CCD431F8 /* Pods-TipotieNavi-TipotieNaviTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TipotieNavi-TipotieNaviTests.debug.xcconfig"; path = "Target Support Files/Pods-TipotieNavi-TipotieNaviTests/Pods-TipotieNavi-TipotieNaviTests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -191,6 +193,7 @@
 		13B07FAE1A68108700A75B9A /* TipotieNavi */ = {
 			isa = PBXGroup;
 			children = (
+				4CCE7CAB25C044F600CA636A /* AppCenter-Config.plist */,
 				008F07F21AC5B25A0029DE68 /* main.jsbundle */,
 				13B07FAF1A68108700A75B9A /* AppDelegate.h */,
 				13B07FB01A68108700A75B9A /* AppDelegate.m */,
@@ -508,6 +511,7 @@
 				FB6DB3C2247FA290001B8C7A /* InfoPlist.strings in Resources */,
 				96527C79CA634FF991D9DA99 /* Montserrat-SemiBold.ttf in Resources */,
 				FBC0D3BB246D4D3B00A68849 /* OpenSans-Bold.ttf in Resources */,
+				4CCE7CAC25C044F600CA636A /* AppCenter-Config.plist in Resources */,
 				D15E5B76BC974EE3BD90B270 /* Montserrat-SemiBoldItalic.ttf in Resources */,
 				E3DAC54A1E774DB2A13F2BC2 /* Montserrat-Thin.ttf in Resources */,
 				AC6B3B5B8E23444083F2C50E /* Montserrat-ThinItalic.ttf in Resources */,
