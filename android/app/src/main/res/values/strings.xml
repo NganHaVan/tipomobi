@@ -138,5 +138,8 @@
     <string name="sp_unreliable">Unreliable</string>
     <!--  SnackBar Notifications  -->
     <string name="sp_searching_location">Searching location&#8230;</string>
+    <!-- App center -->
+    <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">DO_NOT_ASK_JAVASCRIPT</string>
+    <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
 
 </resources>
